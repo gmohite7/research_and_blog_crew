@@ -12,7 +12,7 @@ def run():
     Run the crew.
     """
     inputs = {
-        'topic': 'AI agents in coding',
+        'topic': 'Multi agent systems in artificial intelligence',
         'current_year': str(datetime.now().year)
     }
 
